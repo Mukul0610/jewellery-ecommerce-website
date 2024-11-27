@@ -10,7 +10,7 @@ export default function Footer() {
             <h3 className="text-xl font-semibold mb-4">About Us</h3>
             <p className="text-gray-400">
               New Fancy Jewellers brings you exquisite designs crafted with passion and precision. 
-              Discover our collection of timeless pieces that celebrate life's precious moments.
+              Discover our collection of timeless pieces that celebrate life precious moments.
             </p>
           </div>
           <div>

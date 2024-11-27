@@ -2,8 +2,6 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
-import logo from "@/public/images/logo/logo-ash.png"
 import { Menu, X, ShoppingCart, Heart, Search, ChevronDown } from 'lucide-react'
 
 export default function Header() {
