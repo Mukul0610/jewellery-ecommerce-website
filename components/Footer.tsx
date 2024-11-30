@@ -26,11 +26,11 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-semibold mb-4">Contact Info</h3>
             <address className="text-gray-400 not-italic">
-              <p>123 Jewelry Lane,</p>
+              <p><a href='https://maps.app.goo.gl/sCnqEZshpa3MBLZz9'></a> Neha nagar,</p>
               <p>Sagar, Madhay Pradesh</p>
               <p>India</p>
-              <p className="mt-2">Phone: +91 1234567890</p>
-              <p>Email: info@newfancyjewellers.com</p>
+              <p><a href='tel:+918871266742' className="mt-2">Phone: +91 1234567890</a></p>
+              <p><a href='mailto:info@newfancyjewellers.com'>Email: info@newfancyjewellers.com</a></p>
             </address>
           </div>
           <div>

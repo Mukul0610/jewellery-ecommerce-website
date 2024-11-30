@@ -19,7 +19,9 @@ export default function Header() {
           </div>
           <div className="flex space-x-4">
             <a href="#" className="text-sm hover:text-gold">Track Order</a>
-            <a href="#" className="text-sm hover:text-gold">Login / Register</a>
+            <link href="/Login" className="text-sm hover:text-gold"><button className="bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600">
+              Login/Register
+            </button></link>
           </div>
         </div>
 
